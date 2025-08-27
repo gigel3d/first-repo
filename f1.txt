@@ -1,2 +1,3 @@
+// simple comment
 int func()
 
