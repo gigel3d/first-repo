@@ -1,3 +1,7 @@
 #include "Warrior.h"
 
-int MAINFUNC() {}
+// test changes
+int main() 
+{
+	// test function
+}
